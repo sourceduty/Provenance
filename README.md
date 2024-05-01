@@ -1,5 +1,7 @@
 ![louis-v-suitcase-shot-blue-dress-resized](https://github.com/sourceduty/Provenance/assets/123030236/9f4a40c8-3d90-458b-9a67-849cb84b817f)
 
+> Personal and professional histories in the documented lineage of items, individuals, or organizations.
+
 Provenance research is an interdisciplinary field that draws upon various scientific disciplines to investigate and document the history, origin, ownership, and authenticity of objects, artworks, and cultural artifacts. It incorporates methods and techniques from fields such as art history, archaeology, anthropology, archival research, forensic science, and genealogy. By analyzing stylistic characteristics, cultural contexts, excavation findings, historical documents, material composition, and familial lineages, provenance researchers aim to establish a comprehensive understanding of an object's journey throughout history. This research plays a critical role in authentication, preservation, interpretation, and ethical collecting practices, aiding in the detection of forgeries, repatriation efforts, and promotion of cultural heritage preservation.
 
 #
