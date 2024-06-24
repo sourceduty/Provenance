@@ -106,5 +106,16 @@ In both cases, progress necessitated confronting and rejecting historical proven
 <br>
 </details>
 
+#
+### Related Links
+
+[Car Design](https://github.com/sourceduty/Car_Design)
+<br>
+[Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Timeless Products](https://github.com/sourceduty/Timeless_Products)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
