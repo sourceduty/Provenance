@@ -116,6 +116,10 @@ In both cases, progress necessitated confronting and rejecting historical proven
 [Product Design](https://github.com/sourceduty/Product_Design)
 <br>
 [Timeless Products](https://github.com/sourceduty/Timeless_Products)
+<br>
+[House Design](https://github.com/sourceduty/House_Design)
+<br>
+[Airplane Design](https://github.com/sourceduty/Airplane_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
