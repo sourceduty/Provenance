@@ -141,6 +141,10 @@ In both cases, progress necessitated confronting and rejecting historical proven
 [House Design](https://github.com/sourceduty/House_Design)
 <br>
 [Airplane Design](https://github.com/sourceduty/Airplane_Design)
+<br>
+[Document Update](https://github.com/sourceduty/Document_Update)
+<br>
+[Urban Update](https://github.com/sourceduty/Urban_Update)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
