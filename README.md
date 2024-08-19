@@ -129,7 +129,7 @@ In both cases, progress necessitated confronting and rejecting historical proven
 
 > "*Oh Romeo, Romeo! Why are you Romeo?*"
 
-> "*I don't but things from my childhood and I won't.*"
+> "*I don't buy things from my childhood and I won't.*"
 
 #
 ### Related Links
