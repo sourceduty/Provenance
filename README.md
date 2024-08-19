@@ -122,6 +122,10 @@ In both cases, progress necessitated confronting and rejecting historical proven
 </details>
 
 #
+
+> Alex: "*I'm not a history enthusiast but you can't live without history.*"
+
+#
 ### Related Links
 
 [Car Design](https://github.com/sourceduty/Car_Design)
