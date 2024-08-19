@@ -127,7 +127,7 @@ In both cases, progress necessitated confronting and rejecting historical proven
 
 > "*Although I update history, I'm also not nostalgic.*"
 
-> "*"Oh Romeo, Romeo! Why are you Romeo?"*"
+> "*Oh Romeo, Romeo! Why are you Romeo?*"
 
 #
 ### Related Links
