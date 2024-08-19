@@ -125,6 +125,8 @@ In both cases, progress necessitated confronting and rejecting historical proven
 
 > Alex: "*I'm not a history enthusiast but you can't live without history.*"
 
+> "*Although I update history, I'm also not nostalgic.*"
+
 #
 ### Related Links
 
