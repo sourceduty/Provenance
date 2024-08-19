@@ -131,6 +131,8 @@ In both cases, progress necessitated confronting and rejecting historical proven
 
 > "*I don't buy things from my childhood and I won't.*"
 
+> "*Other people are far more nostalgic than myself and I don't mind that.*"
+
 #
 ### Related Links
 
