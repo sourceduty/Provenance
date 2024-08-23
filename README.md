@@ -133,6 +133,8 @@ In both cases, progress necessitated confronting and rejecting historical proven
 
 > "*Other people are far more nostalgic than myself and I don't mind that.*"
 
+> "*Some people dislike the quality of history because we are very progressive and innovative.*"
+
 #
 ### Related Links
 
@@ -153,6 +155,10 @@ In both cases, progress necessitated confronting and rejecting historical proven
 [Urban Update](https://github.com/sourceduty/Urban_Update)
 <br>
 [Modernization](https://github.com/sourceduty/Modernization)
+<br>
+[History Simulator](https://github.com/sourceduty/History_Simulator)
+<br>
+[Location Historian](https://github.com/sourceduty/Location_Historian)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
