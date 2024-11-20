@@ -135,6 +135,8 @@ In both cases, progress necessitated confronting and rejecting historical proven
 
 > "*Some people dislike the quality of history because we are very progressive and innovative.*"
 
+> "*I value history, but I'm not nostalgic socially or in any other way.*"
+
 #
 ### Related Links
 
